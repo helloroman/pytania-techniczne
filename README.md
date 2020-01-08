@@ -1,14 +1,15 @@
 # Zanim zadasz pytanie...
-	- Wykonałem/wykonałam samodzielną pracę w postaci researchu w dokumentacji oraz na:
-		- Google
-		- StackOverflow
-		- Github Issues
-		- Slacku/Discordzie technologii
-	- Sprawdziłem/sprawdziłam swój kod pod kątem literówek, pomylonych słów, przypadkowych znaków
-	- Spróbowałem/spróbowałam zreplikować swój kod na Codesandbox / Codepen lub innym serwisie
-	- Stworzyłem/stworzyłam GIST-a
-	- Sformatowałem/sformatowałam mój kod tak, aby był czytelny 
-	- Po uzyskaniu odpowiedzi na pytanie opublikuję właściwą odpowiedź pod moim pytaniem
+
+- Wykonałem/wykonałam samodzielną pracę w postaci researchu w dokumentacji oraz na:
+	- Google
+	- StackOverflow
+	- Github Issues
+	- Slacku/Discordzie technologii
+- Sprawdziłem/sprawdziłam swój kod pod kątem literówek, pomylonych słów, przypadkowych znaków
+- Spróbowałem/spróbowałam zreplikować swój kod na Codesandbox / Codepen lub innym serwisie
+- Stworzyłem/stworzyłam GIST-a
+- Sformatowałem/sformatowałam mój kod tak, aby był czytelny 
+- Po uzyskaniu odpowiedzi na pytanie opublikuję właściwą odpowiedź pod moim pytaniem
 
 # Skorzystaj z tego szablonu, aby w łatwy sposób sformułować swoje pytanie
 1. Ogólny opis problemu:
